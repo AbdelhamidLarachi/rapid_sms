@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "235969149846",
+    "firebase_url": "https://rapid-sms.firebaseio.com",
+    "project_id": "rapid-sms",
+    "storage_bucket": "rapid-sms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235969149846:android:43ed59a23a5e7900d03bb7",
+        "android_client_info": {
+          "package_name": "com.example.rapid_sms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235969149846-3mbkaeicb574m0b5mlolq1r08443h54s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rapid_sms",
+            "certificate_hash": "b55f946a4293475bc30c2296f09dfcc0ff41c8dc"
+          }
+        },
+        {
+          "client_id": "235969149846-96oo34930dhvfi0nosl50m83317i6fbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjW4TzhRQMcS0-kRQhips3Bys6tlBV5WE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235969149846-96oo34930dhvfi0nosl50m83317i6fbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
