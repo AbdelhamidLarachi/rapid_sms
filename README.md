@@ -1,3 +1,3 @@
 title : 
 
-![operation scheme](https://drive.google.com/file/d/15M1LALZzIfQApwe-5BlG3Vvwx9UUSh9X/view?usp=sharing)
+![operation scheme](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_160x56dp.png)
